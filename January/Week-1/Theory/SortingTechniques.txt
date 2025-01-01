@@ -1,0 +1,13 @@
+Sorting Algorithms
+It a technique used to arrange elements in a sorted order which can be of Assending, or Decending order.
+
+
+Types of Sorting Algorithms in Data Structure:
+Bubble Sort...........(Not Done Yet)
+Insertion Sort........(Not Done Yet)
+Selection Sort........(on progress - 1 jan, 2025)
+Quick Sort............(Not Done Yet)
+Merge Sort............(Not Done Yet)
+Bucket Sort...........(Not Done Yet)
+Heap Sort.............(Not Done Yet)
+Counting Sort.........(Not Done Yet)
