@@ -5,5 +5,5 @@ Soon i'll be doing leetcode question and also i'll post solutions here of every 
 Day 2:  
 
 
-i have solved a easy level question on leetcode,
+i have solved a easy level question on leetcode,  
 i.e Problem number 326. PowerOfThree
